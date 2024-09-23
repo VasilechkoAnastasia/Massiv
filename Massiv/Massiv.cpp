@@ -81,7 +81,7 @@ int main()
 	cout << "Negative: " << e << " ";
 	cout << "Zero: " << c << " "; */
 
-	//4
+	//5
 	/*int min = 0;
 	int max = 99;
 	int sum = 0;
